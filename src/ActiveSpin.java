@@ -21,6 +21,7 @@ import java.awt.event.ActionEvent;
 import javax.swing.JTable;
 import javax.swing.border.MatteBorder;
 
+//Owner: Manikandan K// 
 public class ActiveSpin extends JFrame {
 
 	private JPanel contentPane;
